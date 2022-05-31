@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Eliel
 - 👀 I’m interested in Games, Web Development, Books, and Hanging Out
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on open source projects, anything I can get my hands on to get some experience.
+- 💞️ I’m looking to collaborate on open source projects and anything I can get my hands on to get some experience.
 - 📫 How to reach me:
 
 <!---
